@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "168d996d1900590979e42ea9",
+  "owner": "peyrdlgj",
+  "repo": "page-4c819bb0548fad26f7dab35d",
+  "title": "极速火箭",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4c819bb0548fad26f7dab35d",
+      "a": "极速火箭",
+      "b": "",
+      "entity": "极速火箭",
+      "brand": "极速火箭",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f2a103b29254a8e5e7601945b980bfc95b6f5f220a23adf98a3c01e361513c4c",
+      "content": {
+        "keyword1": "极速火箭",
+        "keyword2": "",
+        "primary_entity": "极速火箭",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "极速火箭用浅灰和电光紫把额度、设备和套餐摊在你眼前：基础版、旗舰版、团队版的价格与权益写清楚，下载入口先留空，常见问题用折叠慢慢聊。",
+          "AI_DESCRIPTION": "极速火箭用浅灰和电光紫把额度、设备和套餐摊在你眼前：基础版、旗舰版、团队版的价格与权益写清楚，下载入口先留空，常见问题用折叠慢慢聊。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0}\nbody{font-family:Georgia,\"Songti SC\",\"Noto Serif SC\",serif;background:#e8e8ed;color:#1a1224;line-height:1.65}\na{color:#6b2cff;text-decoration:none}\na:hover{text-decoration:underline}\n.wrap{display:flex;min-height:100vh;align-items:stretch}\naside.nav{width:11.5rem;flex-shrink:0;background:#d8d8e2;border-right:4px solid #6b2cff;padding:1.2rem .8rem;position:sticky;top:0;height:100vh}\naside.nav p{margin:0 0 1rem;font-size:.75rem;letter-spacing:.12em;color:#5a4d72;text-transform:uppercase}\naside.nav ol{margin:0;padding:0;list-style:none}\naside.nav a{display:block;padding:.45rem .3rem;border:3px solid transparent;color:#2a1a40;font-size:.92rem}\naside.nav a:hover{border-color:#6b2cff;background:#efe8ff;text-decoration:none}\nmain{flex:1;padding:1.2rem 1.1rem 3rem;max-width:52rem}\nh1{font-size:clamp(1.8rem,5vw,2.8rem);line-height:1.15;margin:.2rem 0 1rem;color:#2a0d55}\nh2{font-size:1.35rem;margin:2rem 0 .7rem;border-left:8px solid #6b2cff;padding-left:.6rem}\nh3{font-size:1.08rem;margin:1.1rem 0 .4rem}\n.dash{display:grid;grid-template-columns:repeat(2,1fr);gap:.7rem;margin:1rem 0 1.4rem}\n.tile{border:4px solid #1a1224;background:#f4f4f8;padding:.85rem .9rem;min-height:6.2rem}\n.tile b{display:block;font-size:1.7rem;color:#6b2cff;font-family:ui-monospace,Consolas,monospace}\n.tile span{font-size:.82rem;color:#4a4258}\n.lead{font-size:1.05rem;max-width:40rem}\n.card{border:4px solid #1a1224;background:#f7f7fb;padding:1rem 1.05rem;margin:0 0 .85rem}\n.card.featured{border-color:#6b2cff;background:#efe8ff}\n.price{font-size:1.4rem;color:#6b2cff;margin:.2rem 0}\n.muted{color:#5a5268;font-size:.92rem}\nul.plain{margin:.3rem 0 .2rem;padding-left:1.1rem}\ndetails{border:4px solid #1a1224;margin:0 0 .6rem;background:#f7f7fb;padding:.5rem .8rem}\nsummary{cursor:pointer;font-weight:700;color:#2a0d55}\nfooter{margin-top:2.4rem;font-size:.85rem;color:#5a5268;border-top:4px solid #1a1224;padding-top:.8rem}\n@media (max-width:720px){\n.wrap{display:block}\naside.nav{width:100%;height:auto;position:relative;border-right:none;border-bottom:4px solid #6b2cff;display:flex;flex-wrap:wrap;gap:.3rem;align-items:center}\naside.nav ol{display:flex;flex-wrap:wrap;gap:.2rem}\n.dash{grid-template-columns:1fr}\n}\n</style><div class=\"wrap\">\n<aside class=\"nav\">\n<p>目录</p>\n<ol>\n<li><a href=\"#top\">首屏看板</a></li>\n<li><a href=\"#how\">怎么用这些数字</a></li>\n<li><a href=\"#plans\">三张大卡套餐</a></li>\n<li><a href=\"#clients\">客户端说明</a></li>\n<li><a href=\"#faq\">折叠问答</a></li>\n</ol>\n</aside>\n<main id=\"top\">\n<h1>极速火箭</h1>\n<p class=\"lead\">嘿，先别急着往下划。我把额度、设备和年付差额摊成几块小仪表，像把抽屉拉开给你看：里面有什么、没有什么，都写在格子上。</p>\n<div class=\"dash\">\n<div class=\"tile\"><b>3</b><span>方案档位：基础 / 旗舰 / 团队</span></div>\n<div class=\"tile\"><b>¥15</b><span>入门月价，年付写成 ¥150</span></div>\n<div class=\"tile\"><b>100–1000</b><span>每月流量档，单位 GB，按卡面写</span></div>\n<div class=\"tile\"><b>3 / 5 / 20</b><span>同时在线设备数，三档递增</span></div>\n</div>\n<p>这些格子不是成绩单，只是把价目表拆开，免得你对着一长串权益发呆。下面用朋友聊天的口气把步骤和卡面讲完。</p>\n\n<section id=\"how\">\n<h2>怎么用这些数字</h2>\n<p>你可以把极速火箭想成一份写在纸上的额度表：先选一档，再对照自己常用的设备数量。官网身份、实测速度、节点名单、评价、系统兼容清单、日志策略和退款规则，这边没有可核对的材料，我就不替它编。</p>\n<h3>建议你按这个顺序看</h3>\n<ol>\n<li>看设备数：三台、五台、二十台，先卡住自己会同时开几台。</li>\n<li>看月流量数字：100、300、1000，单位都是 GB，按卡面理解即可。</li>\n<li>对照月价和年付句：年付只是把十二个月写成一笔，没有额外承诺。</li>\n<li>客户端区块目前没有可核验的下载地址，链接先空着，别点来点去找安装包。</li>\n</ol>\n</section>\n\n<section id=\"plans\">\n<h2>三张大卡，从上往下叠</h2>\n<p class=\"muted\">权益按参考价目写入，语气放软：这是卡片上印的句子，不是实测背书。</p>\n<article class=\"card\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p class=\"muted\">按年付仅需 ¥150/年</p>\n<ul class=\"plain\">\n<li>每月 100GB 流量额度（卡面表述）</li>\n<li>支持 3 台设备同时在线</li>\n<li>基础流媒体相关说明见卡面，不作额外保证</li>\n<li>普通线路节点池：仅作为套餐文字，细节未提供</li>\n</ul>\n</article>\n<article class=\"card featured\">\n<h3>旗舰版（卡片上标了推荐）</h3>\n<p class=\"price\">¥35/月</p>\n<p class=\"muted\">按年付仅需 ¥350/年</p>\n<ul class=\"plain\">\n<li>每月 300GB 流量额度（卡面表述）</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁：按卡面抄录，无实测</li>\n<li>IPLC 专线游戏加速优化：按卡面抄录，无实测</li>\n<li>7x24 优先工单支持：按卡面抄录，响应时效未提供</li>\n</ul>\n</article>\n<article class=\"card\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p class=\"muted\">按年付仅需 ¥850/年</p>\n<ul class=\"plain\">\n<li>每月 1000GB 流量额度（卡面表述）</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点：仅卡面用语</li>\n<li>支持企业定制路由：范围未给出</li>\n<li>专属客户经理服务：联络方式未提供</li>\n</ul>\n</article>\n</section>\n\n<section id=\"clients\">\n<h2>客户端这块先说实话</h2>\n<p>手头没有可核对的客户端名单、版本号或下载地址。所以这里不放安装包、不写商店链接，按钮式地址一律留空。</p>\n<p>若你以后拿到官方页面，再自行对照系统；此刻请把下载期待降到零，避免点到不明来源。</p>\n<p><a href=\"#\">下载入口暂缺（空链接）</a></p>\n</section>\n\n<section id=\"faq\">\n<h2>常见问题，点开再聊</h2>\n<details>\n<summary>极速火箭到底是什么？</summary>\n<p>就这个页面而言，它是带三档价目的品牌名。没有官方资质、运营主体或服务范围的核实材料，我只按你给的价目和设计把字写完。</p>\n</details>\n<details>\n<summary>价格会不会再藏一项？</summary>\n<p>基础版 ¥15/月、年付 ¥150；旗舰版 ¥35/月、年付 ¥350；团队版 ¥85/月、年付 ¥850。除此之外没有折扣码、试用天数或退款说明可写。</p>\n</details>\n<details>\n<summary>流量和设备怎么理解？</summary>\n<p>按卡片：100 / 300 / 1000 GB 每月，设备 3 / 5 / 20。超量后会怎样、是否限速，材料里没有，所以我不猜。</p>\n</details>\n<details>\n<summary>能帮我选一档吗？</summary>\n<p>可以凭感觉：一个人两三台设备、用量不大，先看基础版；设备和用量都往上走，看旗舰版；很多人共用再看团队版。这不是销售承诺，就是帮你对齐数字。</p>\n</details>\n</section>\n<footer>极速火箭 · 静态说明页 · 未提供的事实一律不写</footer>\n</main>\n</div>",
+          "hash": "f206939d59f6b2f3ebde77068ae860d93f4124291914cf6b9e95f74cd2139d4d",
+          "seo": {
+            "title": "极速火箭｜把用量和设备数摊开看的会员页",
+            "keywords": "极速火箭,会员方案,流量额度,多设备,常见问题",
+            "description": "极速火箭用浅灰和电光紫把额度、设备和套餐摊在你眼前：基础版、旗舰版、团队版的价格与权益写清楚，下载入口先留空，常见问题用折叠慢慢聊。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "1003",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "4 浅灰配电光紫",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jqweatg.cn",
+    "host": "p-3d733d2541.jqweatg.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "de1100dc6999d403099063cfd67d21560dd0a3f1cf7c6e816b9395e28c9e48ea",
+    "sitemap.xml": "f7bd5243abe5ccba60cdf60191734c84a105098ee71f2e9bc28a045298e01d04",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ecbcab1d611a34f159774ad70e5ea673bdbea16280aa95256367cc0a92d99600",
+    "robots.txt": "62cf8990a1ac3e565cf02e858fcfa004997b5824bcba830e0b26303d0e8863fb",
+    "d385a500e99f931e8bb1327244f3615d.txt": "403dfcd9abd0306151bcae3ba3231f22a333bfab403bf3afbc5f6bdf4fb1e3ea"
+  },
+  "revision": "ca7d3d45632bd0d4d6674a73bb9e5dca905d623518cccdf5566f4d5d8e3eda81"
+}
